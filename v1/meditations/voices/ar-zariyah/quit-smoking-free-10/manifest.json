@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 357,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحبًا.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "هذه التمارين مخصصة لك كشخص لا يدخن.",
+      "file": "c001.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 2,
+      "text": "ابحث عن وضعية مريحة، أو استلقِ إذا شعرت أن ذلك أفضل.",
+      "file": "c002.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 3,
+      "text": "دع يديك تستريح.",
+      "file": "c003.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 4,
+      "text": "خفف من عينيك، أو أغلقها.",
+      "file": "c004.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسًا بطيئًا من خلال الأنف.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "وأنفث ببطء وبطولة.",
+      "file": "c006.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 7,
+      "text": "[استراحة:16]",
+      "file": "c007.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 8,
+      "text": "شعر بالجسم مدعومًا.",
+      "file": "c008.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 9,
+      "text": "لا شيء لإثباته. لا مكان للتعجل.",
+      "file": "c009.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 10,
+      "text": "[استراحة:16]",
+      "file": "c010.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 11,
+      "text": "سنعمل مع عبارات واضحة للحرية.",
+      "file": "c011.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 12,
+      "text": "استمع، أو كرر بصمت ما يشعرك بالصدق.",
+      "file": "c012.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 13,
+      "text": "[استراحة:18]",
+      "file": "c013.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 14,
+      "text": "أنا الآن شخص لا يدخن.",
+      "file": "c014.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 15,
+      "text": "[استراحة:16]",
+      "file": "c015.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 16,
+      "text": "أنا سعيد جدًا بالتخلص من مرض النيكوتين.",
+      "file": "c016.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 17,
+      "text": "[استراحة:18]",
+      "file": "c017.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 18,
+      "text": "التدخين لم يعد جزءًا من حياتي أو هويتي.",
+      "file": "c018.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 19,
+      "text": "[استراحة:18]",
+      "file": "c019.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 20,
+      "text": "أنا أشعر بهذه المحفزات بسبب ذكريات الماضي أو رؤية مدخنين آخرين.",
+      "file": "c020.ogg",
+      "durationSec": 11.976
+    },
+    {
+      "index": 21,
+      "text": "[استراحة:18]",
+      "file": "c021.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 22,
+      "text": "هذه المحفزات لا تستطيع فعل أي شيء بي، لأنني حررت نفسي من عبودية الإدمان.",
+      "file": "c022.ogg",
+      "durationSec": 12.888
+    },
+    {
+      "index": 23,
+      "text": "[توقف:22]",
+      "file": "c023.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 24,
+      "text": "أشعر بالأسف على المدخنين الذين ما زالوا عالقين بخدع التدخين.",
+      "file": "c024.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 25,
+      "text": "الذين يقعون في دورة التعاسة من نقص النيكوتين، والرغبة، والتعبئة مرة أخرى.",
+      "file": "c025.ogg",
+      "durationSec": 13.152
+    },
+    {
+      "index": 26,
+      "text": "[توقف:18]",
+      "file": "c026.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 27,
+      "text": "لم أعد أعاني مثلهم.",
+      "file": "c027.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 28,
+      "text": "[توقف:14]",
+      "file": "c028.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 29,
+      "text": "الآن أعرف الحقيقة.",
+      "file": "c029.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 30,
+      "text": "لا يوجد أي فائدة على الإطلاق من التدخين.",
+      "file": "c030.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 31,
+      "text": "[توقف:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 32,
+      "text": "لم يساعد عصا البول أحدًا أبدًا، ولن يساعد أبدًا.",
+      "file": "c032.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 33,
+      "text": "[توقف:18]",
+      "file": "c033.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 34,
+      "text": "أوجد التدخين الكثير من المشاكل لي.",
+      "file": "c034.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 35,
+      "text": "[توقف:14]",
+      "file": "c035.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 36,
+      "text": "اتخذت أفضل قرار في حياتي بعدم تدخين نفحة أخرى من هذا السم المقرف.",
+      "file": "c036.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 37,
+      "text": "كان هذا القرار نهائيًا.",
+      "file": "c037.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 38,
+      "text": "[توقف:22]",
+      "file": "c038.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 39,
+      "text": "الآن، أحترم قانون التدخين.",
+      "file": "c039.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 40,
+      "text": "[توقف:18]",
+      "file": "c040.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 41,
+      "text": "الآن، أصبحت جميع حالاتي أفضل.",
+      "file": "c041.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 42,
+      "text": "أصبحت أكثر سعادة، وصحة، وثقة.",
+      "file": "c042.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 43,
+      "text": "[توقف:22]",
+      "file": "c043.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 44,
+      "text": "أنا حرّ.",
+      "file": "c044.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 45,
+      "text": "[توقف:28]",
+      "file": "c045.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 46,
+      "text": "استرخِ في هذا الحرية لبضع أنفاس.",
+      "file": "c046.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 47,
+      "text": "قد تزورني المحفزات كذكريات قديمة.",
+      "file": "c047.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 48,
+      "text": "لا يمكنهم إعادتك إلى العبودية.",
+      "file": "c048.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 49,
+      "text": "[توقف:36]",
+      "file": "c049.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 50,
+      "text": "أنا الآن مُمتنع عن التدخين.",
+      "file": "c050.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 51,
+      "text": "أنا حر.",
+      "file": "c051.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 52,
+      "text": "[توقف:28]",
+      "file": "c052.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 53,
+      "text": "خذ نفسًا سهلًا آخر.",
+      "file": "c053.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 54,
+      "text": "حرك أصابعك.",
+      "file": "c054.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 55,
+      "text": "عندما تكون مستعدًا، افتح عينيك.",
+      "file": "c055.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 56,
+      "text": "احمل هذه الحرية معك.",
+      "file": "c056.ogg",
+      "durationSec": 4.944
+    }
+  ]
+}

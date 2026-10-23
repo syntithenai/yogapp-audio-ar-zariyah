@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "ar-zariyah.zip", "bytes": 68076581, "sha256": "191c35fd855877ab08d8d0ed121932ad43732ad138fef7b8dbe9e46a3184056d"}
+  ]
+}

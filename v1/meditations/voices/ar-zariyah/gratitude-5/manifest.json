@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 173,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "تذكر شيئًا صغيرًا ساعدك اليوم أو هذا الأسبوع.",
+      "file": "c006.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 7,
+      "text": "يمكن أن تكون عادية. الماء الدافئ. رسالة. ضوء على الحائط.",
+      "file": "c007.ogg",
+      "durationSec": 14.616
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 21]",
+      "file": "c008.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 9,
+      "text": "امسكها بلطف في الوعي.",
+      "file": "c009.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 10,
+      "text": "ملاحظة أي ليونة في الصدر أو الوجه.",
+      "file": "c010.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 26]",
+      "file": "c011.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 12,
+      "text": "بصمت، أشكر هذا شيء واحد.",
+      "file": "c012.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 13,
+      "text": "شكرا لكونك هنا.",
+      "file": "c013.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 21]",
+      "file": "c014.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 15,
+      "text": "الآن شيء ثان. خير صغير آخر.",
+      "file": "c015.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 26]",
+      "file": "c016.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 17,
+      "text": "شكرًا لك.",
+      "file": "c017.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 15]",
+      "file": "c018.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 19,
+      "text": "وواحد آخر. ثلث.",
+      "file": "c019.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 26]",
+      "file": "c020.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 21,
+      "text": "دع الامتنان يكون بسيطا. غير مجبر. لاحظت للتو.",
+      "file": "c021.ogg",
+      "durationSec": 12.264
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 31]",
+      "file": "c022.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 23,
+      "text": "استرح في هذا الدفء لبضعة أنفاس.",
+      "file": "c023.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 41]",
+      "file": "c024.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 25,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c025.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 26,
+      "text": "تذبذب الأصابع.",
+      "file": "c026.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 27,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c027.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 28,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c028.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

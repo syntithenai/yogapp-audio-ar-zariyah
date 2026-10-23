@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 163,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "ضع يدك على القلب، أو ضع كلتا يديك في الحضن.",
+      "file": "c006.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 7,
+      "text": "لاحظ كيف أنت، دون إصلاحه.",
+      "file": "c007.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 31]",
+      "file": "c008.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 9,
+      "text": "إذا كان هناك صراع، اعترف به.",
+      "file": "c009.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 10,
+      "text": "هذه لحظة صعوبة.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "الصعوبة هي جزء من كونك إنسانا.",
+      "file": "c011.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 39]",
+      "file": "c012.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 13,
+      "text": "قدم لنفسك اللطف بالطريقة التي تقدمها لصديقك.",
+      "file": "c013.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 14,
+      "text": "اسمحوا لي أن أكون لطيفا مع نفسي.",
+      "file": "c014.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 15,
+      "text": "هل يمكنني أن أعطي نفسي التعاطف الذي أحتاجه؟",
+      "file": "c015.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 39]",
+      "file": "c016.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 17,
+      "text": "مرة أخرى، ببطء.",
+      "file": "c017.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 18,
+      "text": "اسمحوا لي أن أكون لطيفا مع نفسي.",
+      "file": "c018.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 19,
+      "text": "هل يمكنني أن أعطي نفسي التعاطف الذي أحتاجه؟",
+      "file": "c019.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 45]",
+      "file": "c020.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 21,
+      "text": "التنفس باليد على القلب إذا كان هناك.",
+      "file": "c021.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 39]",
+      "file": "c022.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 23,
+      "text": "ليس عليك أن تكسب هذه النعومة.",
+      "file": "c023.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 24,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c024.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 25,
+      "text": "تذبذب الأصابع.",
+      "file": "c025.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 26,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c026.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 27,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c027.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

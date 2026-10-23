@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 152,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "تخيل أنك تجلس بجانب النافذة في يوم ممطر هادئ.",
+      "file": "c006.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 7,
+      "text": "الزجاج بارد. العالم ناعم من الخارج.",
+      "file": "c007.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 30]",
+      "file": "c008.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 9,
+      "text": "سماع المطر دون الحاجة إلى قصة.",
+      "file": "c009.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 10,
+      "text": "الصنابير الصغيرة. في بعض الأحيان يسقط أثقل.",
+      "file": "c010.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 36]",
+      "file": "c011.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 12,
+      "text": "رائحة الهواء الرطب النظيف.",
+      "file": "c012.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 13,
+      "text": "انظر الضوء الرمادي، لطيف وغير مستعجل.",
+      "file": "c013.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 30]",
+      "file": "c014.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 15,
+      "text": "لا يوجد مكان للذهاب إليه في المطر.",
+      "file": "c015.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 16,
+      "text": "إذن للتوقف.",
+      "file": "c016.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 36]",
+      "file": "c017.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 18,
+      "text": "تنفس مع إيقاع الماء على الزجاج.",
+      "file": "c018.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 45]",
+      "file": "c019.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 20,
+      "text": "دع الجهاز العصبي يأخذ الإشارة: ليّن.",
+      "file": "c020.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 36]",
+      "file": "c021.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 22,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "تذبذب الأصابع.",
+      "file": "c023.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 24,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c024.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 25,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

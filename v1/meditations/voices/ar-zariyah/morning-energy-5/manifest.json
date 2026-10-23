@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 377,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "صباح الخير.",
+      "file": "c000.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 1,
+      "text": "مرحبًا بك في تمرين قصير للقاء اليوم.",
+      "file": "c001.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 2,
+      "text": "اجلس طويلًا أو قف إذا كان ذلك أفضل.",
+      "file": "c002.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 3,
+      "text": "دع عينيك تنعم، أو أغمضها.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "اشعر بقدميك على الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسا بطيئا من خلال الأنف.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "وخروج أكمل من خلال الفم.",
+      "file": "c006.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 7,
+      "text": "مرة أخرى. شهيق ناعم.",
+      "file": "c007.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 8,
+      "text": "الزفير الكامل.",
+      "file": "c008.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 9,
+      "text": "واحد آخر. ملء الصدر.",
+      "file": "c009.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 10,
+      "text": "فارغة تماما.",
+      "file": "c010.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 4]",
+      "file": "c011.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 12,
+      "text": "تطلع إلى اليوم دون الإمساك به.",
+      "file": "c012.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 13,
+      "text": "لا تحتاج إلى الخريطة بأكملها بعد.",
+      "file": "c013.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 14,
+      "text": "فقط الخطوة الصادقة التالية.",
+      "file": "c014.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 5]",
+      "file": "c015.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 16,
+      "text": "تنفس لمدة أربعة.",
+      "file": "c016.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 17,
+      "text": "اثنين. ثلاثة. أربعة.",
+      "file": "c017.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 18,
+      "text": "الزفير لمدة أربعة.",
+      "file": "c018.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 19,
+      "text": "اثنين. ثلاثة. أربعة.",
+      "file": "c019.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 20,
+      "text": "مرة أخرى، بالسرعة التي تناسبك.",
+      "file": "c020.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 6]",
+      "file": "c021.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 22,
+      "text": "اشعر بالدفء في اليدين.",
+      "file": "c022.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 23,
+      "text": "يشعر بالاستعداد في الساقين.",
+      "file": "c023.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 4]",
+      "file": "c024.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 25,
+      "text": "قم بتحريك الكتفين للأعلى والخلف والأسفل.",
+      "file": "c025.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 26,
+      "text": "قم بفك الفك.",
+      "file": "c026.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 27,
+      "text": "تنعيم البطن.",
+      "file": "c027.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 28,
+      "text": "لاحظ أي بقايا من النوم في الجسم.",
+      "file": "c028.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 29,
+      "text": "لا حاجة لدفعها بعيدا.",
+      "file": "c029.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 30,
+      "text": "تنفس في جوانب الضلوع.",
+      "file": "c030.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 31,
+      "text": "واتركهم يضيقون على الزفير.",
+      "file": "c031.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 5]",
+      "file": "c032.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 33,
+      "text": "الآن أضف القليل من السطوع إلى النفس.",
+      "file": "c033.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 34,
+      "text": "استنشق كما لو كنت تستيقظ من الداخل.",
+      "file": "c034.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 35,
+      "text": "زفر أي شيء ثقيل من الأمس.",
+      "file": "c035.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 36,
+      "text": "يستنشق الاحتمال.",
+      "file": "c036.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 37,
+      "text": "جهد الزفير الذي ليس هناك حاجة إليه بعد.",
+      "file": "c037.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 38,
+      "text": "[وقفة: 4]",
+      "file": "c038.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 39,
+      "text": "ضع يدك على القلب، أو ضع كلتا يديك في الحضن.",
+      "file": "c039.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 40,
+      "text": "بصمت، أو مجرد الاستماع، جرب هذه العبارات.",
+      "file": "c040.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 41,
+      "text": "أنا هنا.",
+      "file": "c041.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 42,
+      "text": "أبدأ مرة أخرى.",
+      "file": "c042.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 43,
+      "text": "لدي ما يكفي لهذا الصباح.",
+      "file": "c043.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 44,
+      "text": "[وقفة: 4]",
+      "file": "c044.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 45,
+      "text": "أتحرك بثبات.",
+      "file": "c045.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 46,
+      "text": "أقابل ما يأتي بعقل صافي.",
+      "file": "c046.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 47,
+      "text": "يُسمح لي بشغل مساحة اليوم.",
+      "file": "c047.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 48,
+      "text": "[وقفة: 5]",
+      "file": "c048.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 49,
+      "text": "اخترت نية واحدة واضحة لهذا اليوم.",
+      "file": "c049.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 50,
+      "text": "يمكن أن تكون بسيطة.",
+      "file": "c050.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 51,
+      "text": "العطف. ركز. الصبر. طاقة.",
+      "file": "c051.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 52,
+      "text": "احتفظ بهذه الكلمة للتنفس.",
+      "file": "c052.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 53,
+      "text": "[وقفة: 6]",
+      "file": "c053.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 54,
+      "text": "شاهد نفسك تتحرك خلال الصباح بهذه الجودة.",
+      "file": "c054.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 55,
+      "text": "[وقفة: 5]",
+      "file": "c055.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 56,
+      "text": "[وقفة: 5]",
+      "file": "c056.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 57,
+      "text": "مد الأصابع على نطاق واسع، ثم لينة.",
+      "file": "c057.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 58,
+      "text": "ارفع زوايا الفم قليلاً فقط، إذا كان ذلك صحيحًا.",
+      "file": "c058.ogg",
+      "durationSec": 9.48
+    },
+    {
+      "index": 59,
+      "text": "[وقفة: 3]",
+      "file": "c059.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 60,
+      "text": "اشعر بعمودك الفقري يطول في الشهيق التالي.",
+      "file": "c060.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 61,
+      "text": "يشعر الكتفين تستقر على الزفير.",
+      "file": "c061.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 62,
+      "text": "نفس مشرق آخر في.",
+      "file": "c062.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 63,
+      "text": "وزفير طويل وسهل.",
+      "file": "c063.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 64,
+      "text": "تذبذب الأصابع.",
+      "file": "c064.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 65,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c065.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 66,
+      "text": "احمل هذه الطاقة الهادئة إلى يومك.",
+      "file": "c066.ogg",
+      "durationSec": 6.432
+    }
+  ]
+}

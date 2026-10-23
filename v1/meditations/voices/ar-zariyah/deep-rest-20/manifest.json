@@ -1,0 +1,610 @@
+{
+  "id": "deep-rest-20",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 537,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحبًا بكم في ممارسة الراحة العميقة.",
+      "file": "c000.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 1,
+      "text": "استلقي على ظهرك إذا استطعت.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "ادعم الرأس والركبتين إذا كان ذلك يساعد.",
+      "file": "c002.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 3,
+      "text": "دع ذراعيك تستريح بجانبك، وراحتي يديك ناعمة.",
+      "file": "c003.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 4,
+      "text": "أغلق العينين.",
+      "file": "c004.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 5,
+      "text": "لا يوجد مكان آخر لتكون فيه.",
+      "file": "c005.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 6,
+      "text": "[وقفة: 23]",
+      "file": "c006.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 7,
+      "text": "اشعر بنقاط التلامس مع الأرض أو السرير.",
+      "file": "c007.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 8,
+      "text": "الكعب. خَواصِر. شفرات الكتف. رأس.",
+      "file": "c008.ogg",
+      "durationSec": 11.592
+    },
+    {
+      "index": 9,
+      "text": "السماح للجسم بالاحتفاظ به.",
+      "file": "c009.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 10,
+      "text": "[وقفة: 23]",
+      "file": "c010.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 11,
+      "text": "لاحظ التنفس الطبيعي.",
+      "file": "c011.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 12,
+      "text": "لا حاجة لتغييره.",
+      "file": "c012.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 13,
+      "text": "يستنشق يصل.",
+      "file": "c013.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 14,
+      "text": "أوراق الزفير.",
+      "file": "c014.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 25]",
+      "file": "c015.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 16,
+      "text": "إذا كان العقل مشغولاً فهذا جائز.",
+      "file": "c016.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 17,
+      "text": "يمكنك الراحة على أي حال.",
+      "file": "c017.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 18,
+      "text": "ببساطة استمر في العودة إلى الإحساس.",
+      "file": "c018.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 23]",
+      "file": "c019.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 20,
+      "text": "جلب الوعي إلى القدم اليمنى.",
+      "file": "c020.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 21,
+      "text": "أصابع القدم. نعل. كعب.",
+      "file": "c021.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 21]",
+      "file": "c022.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 23,
+      "text": "أسفل الساق اليمنى.",
+      "file": "c023.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 24,
+      "text": "ركبة.",
+      "file": "c024.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 25,
+      "text": "فخذ.",
+      "file": "c025.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 26,
+      "text": "[وقفة: 21]",
+      "file": "c026.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 27,
+      "text": "الورك الأيمن.",
+      "file": "c027.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 28,
+      "text": "الساق اليمنى بأكملها ثقيلة وهادئة.",
+      "file": "c028.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 23]",
+      "file": "c029.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 30,
+      "text": "القدم اليسرى.",
+      "file": "c030.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 31,
+      "text": "أصابع القدم. نعل. كعب.",
+      "file": "c031.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 21]",
+      "file": "c032.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 33,
+      "text": "أسفل الساق اليسرى.",
+      "file": "c033.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 34,
+      "text": "ركبة.",
+      "file": "c034.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 35,
+      "text": "فخذ.",
+      "file": "c035.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 36,
+      "text": "[وقفة: 21]",
+      "file": "c036.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 37,
+      "text": "الورك الأيسر.",
+      "file": "c037.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 38,
+      "text": "الساق اليسرى بأكملها ثقيلة وهادئة.",
+      "file": "c038.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 39,
+      "text": "[وقفة: 23]",
+      "file": "c039.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 40,
+      "text": "الحوض والبطن المنخفض.",
+      "file": "c040.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 41,
+      "text": "ناعم.",
+      "file": "c041.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 42,
+      "text": "[وقفة: 21]",
+      "file": "c042.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 43,
+      "text": "ارتفاع الصدر وهبوطه.",
+      "file": "c043.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 44,
+      "text": "مساحة القلب مفتوحة وسهلة.",
+      "file": "c044.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 45,
+      "text": "[وقفة: 23]",
+      "file": "c045.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 46,
+      "text": "اليد اليمنى.",
+      "file": "c046.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 47,
+      "text": "الأصابع. نخل. رسغ.",
+      "file": "c047.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 48,
+      "text": "[وقفة: 14]",
+      "file": "c048.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 49,
+      "text": "الذراع اليمنى. مِرفَق. كتف.",
+      "file": "c049.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 50,
+      "text": "[وقفة: 21]",
+      "file": "c050.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 51,
+      "text": "اليد اليسرى.",
+      "file": "c051.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 52,
+      "text": "الأصابع. نخل. رسغ.",
+      "file": "c052.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 53,
+      "text": "[وقفة: 14]",
+      "file": "c053.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 54,
+      "text": "الذراع اليسرى. مِرفَق. كتف.",
+      "file": "c054.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 55,
+      "text": "[وقفة: 23]",
+      "file": "c055.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 56,
+      "text": "الحلق ناعم.",
+      "file": "c056.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 57,
+      "text": "الفك غير مقيد.",
+      "file": "c057.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 58,
+      "text": "استراحة اللسان.",
+      "file": "c058.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 59,
+      "text": "[وقفة: 21]",
+      "file": "c059.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 60,
+      "text": "عيون يستريح في مآخذها.",
+      "file": "c060.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 61,
+      "text": "الجبهة على نحو سلس.",
+      "file": "c061.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 62,
+      "text": "فروة الرأس وتاج الرأس.",
+      "file": "c062.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 63,
+      "text": "[وقفة: 23]",
+      "file": "c063.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 64,
+      "text": "استشعر الجسد كله كحقل واحد من السكون.",
+      "file": "c064.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 65,
+      "text": "يتحرك التنفس من خلاله مثل المد الهادئ.",
+      "file": "c065.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 66,
+      "text": "[وقفة:62]",
+      "file": "c066.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 67,
+      "text": "البقاء مع الجسم كله.",
+      "file": "c067.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 68,
+      "text": "[وقفة: 105]",
+      "file": "c068.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 69,
+      "text": "ناعم. فسيحة. ما زال.",
+      "file": "c069.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 70,
+      "text": "[وقفة: 55]",
+      "file": "c070.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 71,
+      "text": "إذا ظهرت فكرة، دعها تمر مثل السحابة.",
+      "file": "c071.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 72,
+      "text": "[وقفة: 50]",
+      "file": "c072.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 73,
+      "text": "العودة إلى الشعور بالاحتجاز.",
+      "file": "c073.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 74,
+      "text": "[وقفة: 55]",
+      "file": "c074.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 75,
+      "text": "الباقي هنا.",
+      "file": "c075.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 76,
+      "text": "لا شيء لحلها.",
+      "file": "c076.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 77,
+      "text": "لا شيء لإكمال.",
+      "file": "c077.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 78,
+      "text": "[وقفة:110]",
+      "file": "c078.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 79,
+      "text": "إذا انجرفت، فلا بأس.",
+      "file": "c079.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 80,
+      "text": "إذا بقيت على علم، فلا بأس بذلك أيضًا.",
+      "file": "c080.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 81,
+      "text": "كلاهما راحة.",
+      "file": "c081.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 82,
+      "text": "[وقفة: 130]",
+      "file": "c082.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 83,
+      "text": "استراحة.",
+      "file": "c083.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 84,
+      "text": "[وقفة: 115]",
+      "file": "c084.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 85,
+      "text": "ابدأ بملاحظة التنفس مرة أخرى.",
+      "file": "c085.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 86,
+      "text": "أكثر حيوية قليلا الآن.",
+      "file": "c086.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 87,
+      "text": "[وقفة: 23]",
+      "file": "c087.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 88,
+      "text": "اشعر بالغرفة من حولك.",
+      "file": "c088.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 89,
+      "text": "أصوات قريبة وبعيدة.",
+      "file": "c089.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 90,
+      "text": "[وقفة: 21]",
+      "file": "c090.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 91,
+      "text": "تذبذب الأصابع.",
+      "file": "c091.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 92,
+      "text": "تذبذب أصابع القدم.",
+      "file": "c092.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 93,
+      "text": "قم بلف معصميك وكاحليك إذا أردت.",
+      "file": "c093.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 94,
+      "text": "[وقفة: 21]",
+      "file": "c094.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 95,
+      "text": "خذ نفسا أعمق.",
+      "file": "c095.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 96,
+      "text": "وتنهيدة طويلة.",
+      "file": "c096.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 97,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c097.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 98,
+      "text": "العودة ببطء.",
+      "file": "c098.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 99,
+      "text": "احمل القليل من هذا الهدوء معك.",
+      "file": "c099.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}

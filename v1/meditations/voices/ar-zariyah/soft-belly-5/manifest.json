@@ -1,0 +1,202 @@
+{
+  "id": "soft-belly-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 170,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "ضع يدك على أسفل البطن إذا أردت.",
+      "file": "c006.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 7,
+      "text": "لاحظ ما إذا كان البطن متماسكًا.",
+      "file": "c007.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 20]",
+      "file": "c008.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 9,
+      "text": "في الشهيق التالي، اسمح للبطن بالتمدد.",
+      "file": "c009.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 10,
+      "text": "أثناء الزفير، دعه يسقط دون عصره.",
+      "file": "c010.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 20]",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "مرة أخرى. بطن ناعم في.",
+      "file": "c012.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 13,
+      "text": "بطن ناعم للخارج.",
+      "file": "c013.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 25]",
+      "file": "c014.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 15,
+      "text": "إذا كان العقل يجادل، دع الجسد يقود.",
+      "file": "c015.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 16,
+      "text": "توسع. يطلق.",
+      "file": "c016.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 29]",
+      "file": "c017.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 18,
+      "text": "انخفاض الكتفين.",
+      "file": "c018.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 19,
+      "text": "الفك ناعم.",
+      "file": "c019.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 20,
+      "text": "خالية من البطن.",
+      "file": "c020.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 25]",
+      "file": "c021.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 22,
+      "text": "ابق مع عشرة أنفاس هادئة ناعمة في البطن.",
+      "file": "c022.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 23,
+      "text": "[وقفة: 45]",
+      "file": "c023.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 24,
+      "text": "لاحظ أي سهولة وصلت.",
+      "file": "c024.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 25,
+      "text": "[وقفة: 20]",
+      "file": "c025.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 26,
+      "text": "الباقي هنا.",
+      "file": "c026.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 27,
+      "text": "[وقفة: 27]",
+      "file": "c027.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 28,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c028.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 29,
+      "text": "تذبذب الأصابع.",
+      "file": "c029.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 30,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c030.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 31,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c031.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

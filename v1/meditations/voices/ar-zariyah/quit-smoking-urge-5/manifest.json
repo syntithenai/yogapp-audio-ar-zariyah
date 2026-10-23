@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 272,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحبًا.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "إذا كانت الرغبة هنا، فأنت في المكان الصحيح.",
+      "file": "c001.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 2,
+      "text": "لا تحتاج إلى محاربتها أو إطعامها.",
+      "file": "c002.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 3,
+      "text": "ابحث عن مكان جالس مستقر، أو اقف بقدميك على الأرض.",
+      "file": "c003.ogg",
+      "durationSec": 9.552
+    },
+    {
+      "index": 4,
+      "text": "خفف من عينيك، أو احتفظ بنظرة خفيفة.",
+      "file": "c004.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسًا بطيئًا من الداخل.",
+      "file": "c005.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 6,
+      "text": "وأنفاس أطول من الخارج.",
+      "file": "c006.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 7,
+      "text": "[توقف:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 8,
+      "text": "اذكر ما يحدث، ببساطة.",
+      "file": "c008.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 9,
+      "text": "الرغبة موجودة.",
+      "file": "c009.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 10,
+      "text": "إنها موجة في الجسم والعقل.",
+      "file": "c010.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 11,
+      "text": "ليست أمرًا.",
+      "file": "c011.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 12,
+      "text": "[توقف:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 13,
+      "text": "لاحظ أين تشعر بها.",
+      "file": "c013.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 14,
+      "text": "الصدر. الحلق. اليدين. القلق.",
+      "file": "c014.ogg",
+      "durationSec": 11.376
+    },
+    {
+      "index": 15,
+      "text": "لا داعي لجعله أكبر. فقط حدد موقعه.",
+      "file": "c015.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 16,
+      "text": "[استراحة:16]",
+      "file": "c016.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 17,
+      "text": "تنفس في ذلك المكان.",
+      "file": "c017.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 18,
+      "text": "استنشق مساحة ناعمة.",
+      "file": "c018.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 19,
+      "text": "انفث دون التصرف.",
+      "file": "c019.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 20,
+      "text": "[استراحة:16]",
+      "file": "c020.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 21,
+      "text": "تتصاعد الرغبات، وتصل إلى ذروتها، وتنخفض.",
+      "file": "c021.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 22,
+      "text": "أنت الشاطئ. تمر الموجة من خلالك.",
+      "file": "c022.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 23,
+      "text": "[استراحة:18]",
+      "file": "c023.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 24,
+      "text": "إذا قدم العقل قصة حول الحاجة إلى سيجارة، شكره وارجع.",
+      "file": "c024.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 25,
+      "text": "ارجع إلى التنفس.",
+      "file": "c025.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 26,
+      "text": "ارجع إلى القدمين على الأرض.",
+      "file": "c026.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 27,
+      "text": "[استراحة:16]",
+      "file": "c027.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 28,
+      "text": "بصمت، إذا ساعد ذلك.",
+      "file": "c028.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 29,
+      "text": "هذا مؤقت.",
+      "file": "c029.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 30,
+      "text": "يمكنني تجاوز هذا دون التدخين.",
+      "file": "c030.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 31,
+      "text": "[استراحة:18]",
+      "file": "c031.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 32,
+      "text": "مرة أخرى. استنشق ناعمًا.",
+      "file": "c032.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 33,
+      "text": "زفير أطول.",
+      "file": "c033.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 34,
+      "text": "[استراحة:16]",
+      "file": "c034.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 35,
+      "text": "لاحظ أي تخفيف، حتى لو كان قليلاً.",
+      "file": "c035.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 36,
+      "text": "أو لاحظ أنك بقيت مع نفسك.",
+      "file": "c036.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 37,
+      "text": "كلاهما يُحسب.",
+      "file": "c037.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 38,
+      "text": "[استراحة:16]",
+      "file": "c038.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 39,
+      "text": "أنت ممنوع من التدخين تلتقي بصدى قديم.",
+      "file": "c039.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 40,
+      "text": "يمكن أن تزورك الرغبة. لكنها لا يمكن أن تمتلكك.",
+      "file": "c040.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 41,
+      "text": "[استراحة:14]",
+      "file": "c041.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 42,
+      "text": "خذ نفسًا سهلًا آخر.",
+      "file": "c042.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 43,
+      "text": "حرك أصابعك.",
+      "file": "c043.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 44,
+      "text": "عندما تكون مستعدًا، افتح عينيك.",
+      "file": "c044.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 45,
+      "text": "استمر في يومك بحرية.",
+      "file": "c045.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

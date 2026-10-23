@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 158,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "لينتهي الصباح هنا، حتى لو استمر النهار.",
+      "file": "c006.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 7,
+      "text": "إسقاط الكتفين.",
+      "file": "c007.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 8,
+      "text": "قم بفك الفك.",
+      "file": "c008.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 30]",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "يستنشق عن طريق الأنف.",
+      "file": "c010.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 11,
+      "text": "الزفير من خلال الفم، كما لو كان تعفير النافذة.",
+      "file": "c011.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 12,
+      "text": "مرة أخرى.",
+      "file": "c012.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 13,
+      "text": "[وقفة: 30]",
+      "file": "c013.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 14,
+      "text": "تخيل وضع كل ما كنت تحمله.",
+      "file": "c014.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 15,
+      "text": "يمكنه الانتظار على الطاولة بجانبك.",
+      "file": "c015.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 37]",
+      "file": "c016.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 17,
+      "text": "يشعر العمود الفقري طويل القامة.",
+      "file": "c017.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 18,
+      "text": "يشعر البطن الناعمة.",
+      "file": "c018.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 30]",
+      "file": "c019.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 20,
+      "text": "اسأل بهدوء: ما المهم في الساعة القادمة؟",
+      "file": "c020.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 21,
+      "text": "خطوة واحدة تالية واضحة تكفي.",
+      "file": "c021.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 44]",
+      "file": "c022.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 23,
+      "text": "تنفس تلك البساطة.",
+      "file": "c023.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 24,
+      "text": "تنفس بجهد.",
+      "file": "c024.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 25,
+      "text": "[وقفة: 37]",
+      "file": "c025.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 26,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c026.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 27,
+      "text": "تذبذب الأصابع.",
+      "file": "c027.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 28,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c028.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 29,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c029.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

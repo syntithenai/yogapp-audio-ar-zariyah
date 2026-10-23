@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 269,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "خذ وقتا للوصول.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الجلوس أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "يشعر الاتصال مع الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 5,
+      "text": "التنفس البطيء.",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "زفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 21]",
+      "file": "c007.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 8,
+      "text": "مرة أخرى.",
+      "file": "c008.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 21]",
+      "file": "c009.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 10,
+      "text": "دع الكتفين تنخفض.",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "دع البطن يلين.",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 27]",
+      "file": "c012.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 13,
+      "text": "ابدأ عند تاج الرأس.",
+      "file": "c013.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 14,
+      "text": "ملاحظة الإحساس، أو عدم وجوده.",
+      "file": "c014.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 27]",
+      "file": "c015.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 16,
+      "text": "الجبين. عيون. الخدين. فك.",
+      "file": "c016.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 17,
+      "text": "دع الوجه يذوب قليلاً.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 27]",
+      "file": "c018.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 19,
+      "text": "حُلقُوم. رقبة. أكتاف.",
+      "file": "c019.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 20,
+      "text": "دعوة الكتفين إلى الانخفاض.",
+      "file": "c020.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 32]",
+      "file": "c021.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 22,
+      "text": "الأسلحة. المرفقين. المعصمين. الأيدي. الأصابع.",
+      "file": "c022.ogg",
+      "durationSec": 15.696
+    },
+    {
+      "index": 23,
+      "text": "[وقفة: 32]",
+      "file": "c023.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 24,
+      "text": "ارتفاع الصدر وهبوطه.",
+      "file": "c024.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 25,
+      "text": "مساحة القلب ناعمة.",
+      "file": "c025.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 26,
+      "text": "[وقفة: 27]",
+      "file": "c026.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 27,
+      "text": "بطن. أسفل الظهر. خَواصِر.",
+      "file": "c027.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 28,
+      "text": "[وقفة: 32]",
+      "file": "c028.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 29,
+      "text": "الفخذين. الركبتين. العجول. الكاحلين. قدم. أصابع القدم.",
+      "file": "c029.ogg",
+      "durationSec": 18.72
+    },
+    {
+      "index": 30,
+      "text": "[وقفة: 38]",
+      "file": "c030.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 31,
+      "text": "تحسس الجسم كله كحقل واحد.",
+      "file": "c031.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 32,
+      "text": "التنفس يتحرك من خلاله.",
+      "file": "c032.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 33,
+      "text": "[وقفة: 54]",
+      "file": "c033.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 34,
+      "text": "إذا بقي مكان متوتر، أرسل زفيرًا هناك.",
+      "file": "c034.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 35,
+      "text": "[وقفة: 43]",
+      "file": "c035.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 36,
+      "text": "الراحة في وعي الجسم كله.",
+      "file": "c036.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 37,
+      "text": "[وقفة: 81]",
+      "file": "c037.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 38,
+      "text": "[وقفة: 32]",
+      "file": "c038.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 39,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c039.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 40,
+      "text": "اشعر بالغرفة مرة أخرى.",
+      "file": "c040.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 41,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c041.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 42,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c042.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 43,
+      "text": "التحرك ببطء إلى ما سيأتي بعد ذلك.",
+      "file": "c043.ogg",
+      "durationSec": 6.888
+    }
+  ]
+}

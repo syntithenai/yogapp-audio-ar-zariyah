@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 137,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "إذا كان الغضب أو الانزعاج موجودا، فمرحبا بك هنا.",
+      "file": "c001.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 2,
+      "text": "لا تحتاج إلى جعلها تختفي.",
+      "file": "c002.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 3,
+      "text": "فقط أعطها مساحة أكبر.",
+      "file": "c003.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 4,
+      "text": "اشعر بالقدمين.",
+      "file": "c004.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 5,
+      "text": "[وقفة: 25]",
+      "file": "c005.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 6,
+      "text": "يستنشق لمدة أربعة.",
+      "file": "c006.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 7,
+      "text": "الزفير لمدة ستة أو ثمانية.",
+      "file": "c007.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 8,
+      "text": "تعمل الزفيرات الأطول على تبريد النظام.",
+      "file": "c008.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 33]",
+      "file": "c009.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 10,
+      "text": "مرة أخرى.",
+      "file": "c010.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 33]",
+      "file": "c011.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 12,
+      "text": "اسم الحرارة دون تغذية القصة.",
+      "file": "c012.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 13,
+      "text": "حرارة في الصدر. الفك ضيق. عقل سريع.",
+      "file": "c013.ogg",
+      "durationSec": 10.992
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 41]",
+      "file": "c014.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 15,
+      "text": "تنعيم اليدين.",
+      "file": "c015.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 16,
+      "text": "إسقاط الكتفين.",
+      "file": "c016.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 33]",
+      "file": "c017.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 18,
+      "text": "يمكنك الرد لاحقا من مكان أوضح.",
+      "file": "c018.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 19,
+      "text": "في الوقت الراهن، تنفس.",
+      "file": "c019.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 45]",
+      "file": "c020.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 21,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c021.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 22,
+      "text": "تذبذب الأصابع.",
+      "file": "c022.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 23,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c023.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 24,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c024.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 385,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "تستخدم هذه الممارسة التوتر والإفراج اللطيف.",
+      "file": "c001.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 2,
+      "text": "استلقي إذا استطعت، أو اجلس مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "لا شيء للقوة. البقاء في نطاق مريح.",
+      "file": "c004.ogg",
+      "durationSec": 8.832
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c005.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 6,
+      "text": "وزفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 19]",
+      "file": "c007.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 8,
+      "text": "لفت الانتباه إلى كلا القدمين.",
+      "file": "c008.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 9,
+      "text": "تجعيد أصابع القدم وتشديد القدمين.",
+      "file": "c009.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 10,
+      "text": "يمسك.",
+      "file": "c010.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 19]",
+      "file": "c011.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 12,
+      "text": "يطلق.",
+      "file": "c012.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 13,
+      "text": "اشعر بالفرق.",
+      "file": "c013.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 21]",
+      "file": "c014.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 15,
+      "text": "تشديد العجول.",
+      "file": "c015.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 16,
+      "text": "يمسك.",
+      "file": "c016.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 17,
+      "text": "[وقفة: 19]",
+      "file": "c017.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 18,
+      "text": "يطلق.",
+      "file": "c018.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 19,
+      "text": "دع الجزء السفلي من الساقين يصبح ثقيلًا.",
+      "file": "c019.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 21]",
+      "file": "c020.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 21,
+      "text": "شد الفخذين.",
+      "file": "c021.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 22,
+      "text": "يمسك.",
+      "file": "c022.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 23,
+      "text": "[وقفة: 19]",
+      "file": "c023.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 24,
+      "text": "يطلق.",
+      "file": "c024.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 25,
+      "text": "أرجل ناعمة. الوركين الناعمة.",
+      "file": "c025.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 26,
+      "text": "[وقفة: 21]",
+      "file": "c026.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 27,
+      "text": "اسحب البطن للداخل بلطف.",
+      "file": "c027.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 28,
+      "text": "عقد دون إجهاد.",
+      "file": "c028.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 19]",
+      "file": "c029.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 30,
+      "text": "يطلق.",
+      "file": "c030.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 31,
+      "text": "دع البطن يتحرك بحرية مع التنفس.",
+      "file": "c031.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 32,
+      "text": "[وقفة: 21]",
+      "file": "c032.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 33,
+      "text": "اصنع قبضة ناعمة. شد اليدين والساعدين.",
+      "file": "c033.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 34,
+      "text": "يمسك.",
+      "file": "c034.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 35,
+      "text": "[وقفة: 19]",
+      "file": "c035.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 36,
+      "text": "يطلق.",
+      "file": "c036.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 37,
+      "text": "الأصابع مفتوحة. الأسلحة ثقيلة.",
+      "file": "c037.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 38,
+      "text": "[وقفة: 21]",
+      "file": "c038.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 39,
+      "text": "هز الكتفين نحو الأذنين.",
+      "file": "c039.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 40,
+      "text": "يمسك.",
+      "file": "c040.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 41,
+      "text": "[وقفة: 19]",
+      "file": "c041.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 42,
+      "text": "أسقطهم.",
+      "file": "c042.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 43,
+      "text": "اشعر بالمساحة عبر الجزء العلوي من الظهر.",
+      "file": "c043.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 44,
+      "text": "[وقفة: 21]",
+      "file": "c044.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 45,
+      "text": "قومي بمسح الوجه بلطف. العيون، الحاجب، الفك.",
+      "file": "c045.ogg",
+      "durationSec": 10.968
+    },
+    {
+      "index": 46,
+      "text": "يمسك.",
+      "file": "c046.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 47,
+      "text": "[وقفة: 19]",
+      "file": "c047.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 48,
+      "text": "يطلق.",
+      "file": "c048.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 49,
+      "text": "الجبهة على نحو سلس. الفك ناعم. استراحة اللسان.",
+      "file": "c049.ogg",
+      "durationSec": 12.312
+    },
+    {
+      "index": 50,
+      "text": "[وقفة: 23]",
+      "file": "c050.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 51,
+      "text": "الآن قم بشد الجسم كله بخفة كواحد.",
+      "file": "c051.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 52,
+      "text": "عقد للتنفس.",
+      "file": "c052.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 53,
+      "text": "[وقفة: 35]",
+      "file": "c053.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 54,
+      "text": "دع كل شيء يذهب.",
+      "file": "c054.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 55,
+      "text": "[وقفة: 8]",
+      "file": "c055.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 56,
+      "text": "مرة أخرى، قم بضغط خفيف على كامل الجسم.",
+      "file": "c056.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 57,
+      "text": "عقد لفترة وجيزة.",
+      "file": "c057.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 58,
+      "text": "[وقفة: 5]",
+      "file": "c058.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 59,
+      "text": "والإفراج تماما.",
+      "file": "c059.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 60,
+      "text": "أثقل الآن. أكثر ليونة الآن.",
+      "file": "c060.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 61,
+      "text": "اشعر بالجسم يستقر على السطح الموجود تحتك.",
+      "file": "c061.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 62,
+      "text": "[وقفة: 39]",
+      "file": "c062.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 63,
+      "text": "الباقي هنا.",
+      "file": "c063.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 64,
+      "text": "التنفس هادئ. الجسم ناعم.",
+      "file": "c064.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 65,
+      "text": "إذا عادت الأفكار فلا بأس.",
+      "file": "c065.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 66,
+      "text": "العودة إلى الشعور بالإفراج.",
+      "file": "c066.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 67,
+      "text": "[وقفة: 50]",
+      "file": "c067.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 68,
+      "text": "ابق ناعمًا.",
+      "file": "c068.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 69,
+      "text": "[وقفة: 40]",
+      "file": "c069.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 70,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c070.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 71,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c071.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 72,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c072.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 73,
+      "text": "احمل هذه النعومة معك.",
+      "file": "c073.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

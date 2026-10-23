@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 272,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحبًا.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "هذه ممارسة للتنفس الصافي.",
+      "file": "c001.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 2,
+      "text": "ابحث عن مكان مريح للجلوس، أو استلقِ إذا شعرت أن ذلك أفضل.",
+      "file": "c002.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 3,
+      "text": "دع يديك تستريحان.",
+      "file": "c003.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 4,
+      "text": "خفف من عينيك، أو أغلقها.",
+      "file": "c004.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسًا بطيئًا من خلال الأنف.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "وأنفاسًا أطول عند الزفير.",
+      "file": "c006.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 7,
+      "text": "[استراحة:10]",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "لاحظ الهواء كما هو.",
+      "file": "c008.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 9,
+      "text": "بارد عند الشهيق.",
+      "file": "c009.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 10,
+      "text": "دافئ عند الزفير.",
+      "file": "c010.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 11,
+      "text": "لا دخان. لا سم. فقط تنفس.",
+      "file": "c011.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 12,
+      "text": "[استراحة:12]",
+      "file": "c012.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 13,
+      "text": "شعر بالصدر يتوسع دون جهد.",
+      "file": "c013.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 14,
+      "text": "شعر بالضلع يتوسع قليلًا.",
+      "file": "c014.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 15,
+      "text": "[استراحة:12]",
+      "file": "c015.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 16,
+      "text": "ضع يدك على القلب، أو اترك كلا اليدين في حضنك.",
+      "file": "c016.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 17,
+      "text": "شعر بجسم يتعافى.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "رئتيك تُنظفان. الدم أكثر حرية. حاسة الشم تعود يومًا بعد يوم.",
+      "file": "c018.ogg",
+      "durationSec": 14.472
+    },
+    {
+      "index": 19,
+      "text": "[استراحة:16]",
+      "file": "c019.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 20,
+      "text": "حاول بصمت هذه العبارات، أو فقط استمع.",
+      "file": "c020.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 21,
+      "text": "تنفسي ينتمي إليّ.",
+      "file": "c021.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 22,
+      "text": "[استراحة:12]",
+      "file": "c022.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 23,
+      "text": "أختار الهواء النقي.",
+      "file": "c023.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 24,
+      "text": "[استراحة:12]",
+      "file": "c024.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 25,
+      "text": "انتهيت من هذا السم.",
+      "file": "c025.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 26,
+      "text": "[استراحة:14]",
+      "file": "c026.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 27,
+      "text": "تخيل لحظتك العادية التالية بدون سيجارة.",
+      "file": "c027.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 28,
+      "text": "قهوة. نزهة. توقف بعد وجبة.",
+      "file": "c028.ogg",
+      "durationSec": 9.384
+    },
+    {
+      "index": 29,
+      "text": "انظر إلى نفسك مكتملًا في تلك اللحظة، حرًا بالفعل.",
+      "file": "c029.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 30,
+      "text": "[استراحة:22]",
+      "file": "c030.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 31,
+      "text": "إذا ظهرت ذكرى التدخين، فليكن صورة، وليس خطة.",
+      "file": "c031.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 32,
+      "text": "ارجع إلى هذا الشهيق.",
+      "file": "c032.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 33,
+      "text": "ارجع إلى هذا الزفير.",
+      "file": "c033.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 34,
+      "text": "[استراحة:14]",
+      "file": "c034.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 35,
+      "text": "تنفس الحرية.",
+      "file": "c035.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 36,
+      "text": "تنفس خارج قصة العادة القديمة.",
+      "file": "c036.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 37,
+      "text": "[استراحة:14]",
+      "file": "c037.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 38,
+      "text": "اتخذت القرار الذي يهم.",
+      "file": "c038.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 39,
+      "text": "جسمك يلحق بهذه الحقيقة.",
+      "file": "c039.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 40,
+      "text": "[استراحة:12]",
+      "file": "c040.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 41,
+      "text": "خذ نفسًا واضحًا آخر.",
+      "file": "c041.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 42,
+      "text": "وأنفث نفسًا طويلًا وسهلًا.",
+      "file": "c042.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 43,
+      "text": "حرك أصابعك.",
+      "file": "c043.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 44,
+      "text": "عندما تكون مستعدًا، افتح عينيك.",
+      "file": "c044.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 45,
+      "text": "احمل هذا الهواء الصافي معك.",
+      "file": "c045.ogg",
+      "durationSec": 5.352
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 229,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحبا بكم في ممارسة النوم.",
+      "file": "c000.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 1,
+      "text": "اضطجع. إجعل الظلام صديقك.",
+      "file": "c001.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 2,
+      "text": "قد تغفو قبل النهاية. هذا هو النجاح.",
+      "file": "c002.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 3,
+      "text": "[وقفة: 22]",
+      "file": "c003.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 4,
+      "text": "التنفس البطيء.",
+      "file": "c004.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 5,
+      "text": "زفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "[وقفة: 22]",
+      "file": "c006.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 7,
+      "text": "الافراج عن الجبهة.",
+      "file": "c007.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 18]",
+      "file": "c008.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 9,
+      "text": "الافراج عن العيون.",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "[وقفة: 18]",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "حرر الفك واللسان.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 22]",
+      "file": "c012.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 13,
+      "text": "تذوب الأكتاف.",
+      "file": "c013.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 22]",
+      "file": "c014.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 15,
+      "text": "الأسلحة ثقيلة. الأيدي مفتوحة.",
+      "file": "c015.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 22]",
+      "file": "c016.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 17,
+      "text": "الصدر ناعم. البطن ناعم.",
+      "file": "c017.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 22]",
+      "file": "c018.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 19,
+      "text": "الوركين ثقيلة.",
+      "file": "c019.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 22]",
+      "file": "c020.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 21,
+      "text": "الأرجل ثقيلة. قدم ثقيلة.",
+      "file": "c021.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 27]",
+      "file": "c022.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 23,
+      "text": "الجسم كله يغرق في السرير.",
+      "file": "c023.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 36]",
+      "file": "c024.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 25,
+      "text": "أفكار مثل حركة المرور البعيدة.",
+      "file": "c025.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 26,
+      "text": "أنت لا تتبعهم.",
+      "file": "c026.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 27,
+      "text": "[وقفة: 45]",
+      "file": "c027.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 28,
+      "text": "التنفس أكثر هدوءا.",
+      "file": "c028.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 45]",
+      "file": "c029.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 30,
+      "text": "أغمق. أكثر ليونة. أبطأ.",
+      "file": "c030.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 31,
+      "text": "[وقفة:67]",
+      "file": "c031.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 32,
+      "text": "لا شيء للانتهاء.",
+      "file": "c032.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 33,
+      "text": "[وقفة: 54]",
+      "file": "c033.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 34,
+      "text": "آمنة للراحة.",
+      "file": "c034.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 35,
+      "text": "[وقفة: 89]",
+      "file": "c035.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 36,
+      "text": "آمن للنوم.",
+      "file": "c036.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 37,
+      "text": "[وقفة: 112]",
+      "file": "c037.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 38,
+      "text": "إذا كنت لا تزال مستيقظًا، فاستمر في الراحة أثناء الزفير.",
+      "file": "c038.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 39,
+      "text": "[وقفة: 89]",
+      "file": "c039.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 40,
+      "text": "طاب مساؤك.",
+      "file": "c040.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 41,
+      "text": "[وقفة:67]",
+      "file": "c041.ogg",
+      "durationSec": 5.208
+    }
+  ]
+}

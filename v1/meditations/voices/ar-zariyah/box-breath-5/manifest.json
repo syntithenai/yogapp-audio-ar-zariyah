@@ -1,0 +1,238 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 221,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "سوف نتنفس في صندوق بسيط.",
+      "file": "c006.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 7,
+      "text": "في لأربعة. عقد لمدة أربعة. الخروج لأربعة. عقد لمدة أربعة.",
+      "file": "c007.ogg",
+      "durationSec": 15.768
+    },
+    {
+      "index": 8,
+      "text": "ابق لطيفًا. لا تجهد أبدًا.",
+      "file": "c008.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 20]",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "يستنشق. اثنين. ثلاثة. أربعة.",
+      "file": "c010.ogg",
+      "durationSec": 11.088
+    },
+    {
+      "index": 11,
+      "text": "يمسك. اثنين. ثلاثة. أربعة.",
+      "file": "c011.ogg",
+      "durationSec": 10.992
+    },
+    {
+      "index": 12,
+      "text": "الزفير. اثنين. ثلاثة. أربعة.",
+      "file": "c012.ogg",
+      "durationSec": 11.16
+    },
+    {
+      "index": 13,
+      "text": "يمسك. اثنين. ثلاثة. أربعة.",
+      "file": "c013.ogg",
+      "durationSec": 10.992
+    },
+    {
+      "index": 14,
+      "text": "[وقفة: 20]",
+      "file": "c014.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 15,
+      "text": "مرة أخرى. يستنشق.",
+      "file": "c015.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 16,
+      "text": "يمسك.",
+      "file": "c016.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 17,
+      "text": "الزفير.",
+      "file": "c017.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 18,
+      "text": "يمسك.",
+      "file": "c018.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 26]",
+      "file": "c019.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 20,
+      "text": "استمر في العد الخاص بك لبضع جولات.",
+      "file": "c020.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 21,
+      "text": "إذا كان الرقم أربعة طويلًا جدًا، استخدم ثلاثة.",
+      "file": "c021.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 45]",
+      "file": "c022.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 23,
+      "text": "صندوق كامل آخر.",
+      "file": "c023.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 24,
+      "text": "يستنشق.",
+      "file": "c024.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 25,
+      "text": "يمسك.",
+      "file": "c025.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 26,
+      "text": "الزفير.",
+      "file": "c026.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 27,
+      "text": "يمسك.",
+      "file": "c027.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 28,
+      "text": "[وقفة: 26]",
+      "file": "c028.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 29,
+      "text": "العودة إلى التنفس الطبيعي.",
+      "file": "c029.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 30,
+      "text": "لاحظ الهدوء الذي يلي ذلك.",
+      "file": "c030.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 31,
+      "text": "[وقفة: 33]",
+      "file": "c031.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 32,
+      "text": "الباقي هنا.",
+      "file": "c032.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 33,
+      "text": "[وقفة: 33]",
+      "file": "c033.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 34,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c034.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 35,
+      "text": "تذبذب الأصابع.",
+      "file": "c035.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 36,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c036.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 37,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c037.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

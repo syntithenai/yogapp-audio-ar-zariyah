@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 199,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "خذ وقتا للوصول.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الجلوس أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 3,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c003.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 4,
+      "text": "يشعر الاتصال مع الأرض.",
+      "file": "c004.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 5,
+      "text": "التنفس البطيء.",
+      "file": "c005.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 6,
+      "text": "زفير أطول.",
+      "file": "c006.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 28]",
+      "file": "c007.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 8,
+      "text": "مرة أخرى.",
+      "file": "c008.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 9,
+      "text": "[وقفة: 28]",
+      "file": "c009.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 10,
+      "text": "دع الكتفين تنخفض.",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "دع البطن يلين.",
+      "file": "c011.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 12,
+      "text": "[وقفة: 36]",
+      "file": "c012.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 13,
+      "text": "تخيل نفسك كالجبل.",
+      "file": "c013.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 14,
+      "text": "قاعدة واسعة. قمة الهدوء. الصبر الكبير.",
+      "file": "c014.ogg",
+      "durationSec": 10.92
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 43]",
+      "file": "c015.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 16,
+      "text": "يتحرك الطقس عبر الجبل.",
+      "file": "c016.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 17,
+      "text": "شمس. رياح. سحاب. عاصفة.",
+      "file": "c017.ogg",
+      "durationSec": 10.848
+    },
+    {
+      "index": 18,
+      "text": "يبقى الجبل.",
+      "file": "c018.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 19,
+      "text": "[وقفة: 57]",
+      "file": "c019.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 20,
+      "text": "الأفكار والحالات المزاجية هي الطقس.",
+      "file": "c020.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 21,
+      "text": "أنت الجبل.",
+      "file": "c021.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 57]",
+      "file": "c022.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 23,
+      "text": "اشعر بقاعدة جسمك متجذرة.",
+      "file": "c023.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 24,
+      "text": "اشعر بالارتفاع في العمود الفقري دون إجهاد.",
+      "file": "c024.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 25,
+      "text": "[وقفة: 43]",
+      "file": "c025.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 26,
+      "text": "تنفس كالسماء حول الجبل.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 27,
+      "text": "[وقفة: 71]",
+      "file": "c027.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 28,
+      "text": "ثابت. على مهل. كافٍ.",
+      "file": "c028.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 90]",
+      "file": "c029.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 30,
+      "text": "[وقفة: 43]",
+      "file": "c030.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 31,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c031.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 32,
+      "text": "اشعر بالغرفة مرة أخرى.",
+      "file": "c032.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 33,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c033.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 34,
+      "text": "عندما تصبح جاهزة، افتح عينيك.",
+      "file": "c034.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 35,
+      "text": "التحرك ببطء إلى ما سيأتي بعد ذلك.",
+      "file": "c035.ogg",
+      "durationSec": 6.888
+    }
+  ]
+}

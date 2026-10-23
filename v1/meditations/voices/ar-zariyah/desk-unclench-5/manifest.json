@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 143,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابق جالسا. هذا في منتصف العمل.",
+      "file": "c001.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 2,
+      "text": "ارفع نظرك عن الشاشة للحظة.",
+      "file": "c002.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 3,
+      "text": "انظر بعيدًا، إذا استطعت.",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "[وقفة: 28]",
+      "file": "c004.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 5,
+      "text": "قم بتحريك الكتفين للأعلى والخلف والأسفل.",
+      "file": "c005.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 6,
+      "text": "مرتين أكثر.",
+      "file": "c006.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 7,
+      "text": "[وقفة: 38]",
+      "file": "c007.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 8,
+      "text": "فتح وإغلاق اليدين.",
+      "file": "c008.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 9,
+      "text": "هزهم بخفة.",
+      "file": "c009.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 10,
+      "text": "[وقفة: 28]",
+      "file": "c010.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 11,
+      "text": "تنعيم الحاجب.",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "قم بفك الفك. دع اللسان يرتاح.",
+      "file": "c012.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 13,
+      "text": "[وقفة: 38]",
+      "file": "c013.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 14,
+      "text": "يستنشق في جانبي الأضلاع.",
+      "file": "c014.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 15,
+      "text": "قم بالزفير واترك الصدر يستقر.",
+      "file": "c015.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 16,
+      "text": "[وقفة: 38]",
+      "file": "c016.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 17,
+      "text": "وميض ببطء ثلاث مرات.",
+      "file": "c017.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 28]",
+      "file": "c018.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 19,
+      "text": "نفسا كاملا آخر.",
+      "file": "c019.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 20,
+      "text": "عد عندما تكون جاهزًا، وأقل استعدادًا قليلاً.",
+      "file": "c020.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 21,
+      "text": "[وقفة: 28]",
+      "file": "c021.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 22,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "تذبذب الأصابع.",
+      "file": "c023.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 24,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c024.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 25,
+      "text": "حمل سهولة العودة إلى المهمة التالية.",
+      "file": "c025.ogg",
+      "durationSec": 6.84
+    }
+  ]
+}

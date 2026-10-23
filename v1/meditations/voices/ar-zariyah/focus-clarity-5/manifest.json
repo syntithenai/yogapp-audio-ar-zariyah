@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 180,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن مقعد مريح، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 2,
+      "text": "دع اليدين ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 3,
+      "text": "تنعيم العينين، أو إغلاقهما.",
+      "file": "c003.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 4,
+      "text": "خذ نفسا بطيئا.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "وزفير أطول.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "اختر مرساة واحدة. النَّفَسُ من الخياشيم، أو صعود البطن.",
+      "file": "c006.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 7,
+      "text": "بقية الاهتمام هناك.",
+      "file": "c007.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 8,
+      "text": "[وقفة: 23]",
+      "file": "c008.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 9,
+      "text": "عندما يتجول العقل، لاحظ أين ذهب.",
+      "file": "c009.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 10,
+      "text": "ثم العودة. بلطف. نظيفة.",
+      "file": "c010.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 11,
+      "text": "[وقفة: 29]",
+      "file": "c011.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 12,
+      "text": "العودة هي التدريب.",
+      "file": "c012.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 13,
+      "text": "يستنشق. يقضي.",
+      "file": "c013.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 14,
+      "text": "الزفير. يقضي.",
+      "file": "c014.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 15,
+      "text": "[وقفة: 34]",
+      "file": "c015.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 16,
+      "text": "إذا كان ذلك مفيدًا، قم بعد الأنفاس حتى خمسة، ثم ابدأ مرة أخرى.",
+      "file": "c016.ogg",
+      "durationSec": 11.688
+    },
+    {
+      "index": 17,
+      "text": "واحد.",
+      "file": "c017.ogg",
+      "durationSec": 2.472
+    },
+    {
+      "index": 18,
+      "text": "[وقفة: 17]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "اثنين.",
+      "file": "c019.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 20,
+      "text": "[وقفة: 17]",
+      "file": "c020.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 21,
+      "text": "ثلاثة.",
+      "file": "c021.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 22,
+      "text": "[وقفة: 17]",
+      "file": "c022.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 23,
+      "text": "أربعة.",
+      "file": "c023.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 24,
+      "text": "[وقفة: 17]",
+      "file": "c024.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 25,
+      "text": "خمسة.",
+      "file": "c025.ogg",
+      "durationSec": 2.712
+    },
+    {
+      "index": 26,
+      "text": "[وقفة: 23]",
+      "file": "c026.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 27,
+      "text": "الافراج عن العد.",
+      "file": "c027.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 28,
+      "text": "استرح في انتباه واضح ومفتوح للحظة.",
+      "file": "c028.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 29,
+      "text": "[وقفة: 34]",
+      "file": "c029.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 30,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c030.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 31,
+      "text": "تذبذب الأصابع.",
+      "file": "c031.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 32,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c032.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 33,
+      "text": "احمل القليل من هذا معك.",
+      "file": "c033.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}
